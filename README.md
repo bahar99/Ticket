@@ -74,6 +74,7 @@ Download and install Postman.
 In MY Project I Support Both POST & GET Method for Requesting.
 
 You Can See Example Below :
+
  post:
 
 ![post](/post-gif.gif)
