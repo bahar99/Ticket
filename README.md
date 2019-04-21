@@ -74,8 +74,13 @@ Download and install Postman.
 In MY Project I Support Both POST & GET Method for Requesting.
 
 You Can See Example Below :
-1. post:
+ post:
+
 ![post](/post-gif.gif)
+
+get:
+
+![get](/get-gif.gif)
 
 # MY CLIENT CODE:
 Just Go To Client Folders and Run Below Code :
