@@ -52,7 +52,7 @@ Create 2 tables Like below:
 - With name new_table: 
 ![new_table](/table1.png)
 
--With name new_table2:
+- With name new_table2:
 ![new_table2](/table2.png)
 Then now you must put Database information in server.py from line 29 - 34
 
