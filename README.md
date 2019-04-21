@@ -75,7 +75,7 @@ In MY Project I Support Both POST & GET Method for Requesting.
 
 You Can See Example Below :
 1. post:
-![post](/postman-post.mp4)
+![post](/post-gif.gif)
 
 # MY CLIENT CODE:
 Just Go To Client Folders and Run Below Code :
