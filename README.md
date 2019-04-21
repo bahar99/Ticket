@@ -14,7 +14,7 @@ Language : Python 3.6.5
 # PreRequirements
 For This Project You Need below Requirements :
 
- - pyhon
+ - python
  - mysql
 
 ```
