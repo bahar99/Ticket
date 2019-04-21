@@ -50,10 +50,10 @@ mysql> CREATE DATABASE ticket;
 # Step2 : Create the tables in your new database
 Create 2 tables Like below:
 - With name new_table: 
-![new_table](/bahar99/Ticket/table1.png)
+![new_table](/table1.png)
 
 -With name new_table2:
-![new_table2](/bahar99/Ticket/table2.png)
+![new_table2](/table2.png)
 Then now you must put Database information in server.py from line 29 - 34
 
 # Step3 : Run the Ticket project
